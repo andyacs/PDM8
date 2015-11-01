@@ -43,10 +43,9 @@ _[Sherika Wynter] (https://www.linkedin.com/profile/view?id=AAkAAAB_OigBbb9OwaNt
 This course is designed to take the student through the full life cycle of product development and management. Product Management (PM) is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
 
 This Product Management course will provide the skills: 
-* To understand your users and analyze the market to build a product that is valuable, viable, and useable.
+* To understand your users and analyze the market to build a product that is valuable, viable, and usable.
 * Create a roadmap and effectively manage communication with all stakeholders
 * Develop metrics to measure your success and make tough decisions
-* This is just to name a few
 
 | |Quotes by Industry Influencers  |
 ---|---
