@@ -24,6 +24,7 @@ This Product Management course will provide the skills:
 ###General Information
 * [Getting Started Info](https://github.com/andyacs/PDM8/wiki/Getting-Started-with-PDM)
 * [Class Schedule](https://github.com/andyacs/PDM8/wiki/Class-Schedule)
+
 <!--
 * [Product Managers Toolkit](https://github.com/idrmiller/PDM7/wiki/03.-PM-Tool-Kit)
 * [Mid-Term Tracker](https://github.com/idrmiller/PDM7/blob/master/Extra/GA%20PDM%20Final%20Project%20Tracker-1.xlsx)
@@ -32,6 +33,7 @@ This Product Management course will provide the skills:
 ###Class Content Pages
 
 * [Class 1: Into to PM](https://github.com/andyacs/PDM8/wiki/Class-1:-Intro-to-Product-Management)
+
 <!--
 * [Class 2: Product Development Cycle](https://github.com/idrmiller/PDM7/wiki/Class-02:-Product-Development-Cycle)
 * [Class 3: Testing & Validating Your Idea](https://github.com/idrmiller/PDM7/wiki/Class-03:-Testing-&-Validating-Your-Idea)
