@@ -12,17 +12,27 @@ _[Sherika Wynter] (https://www.linkedin.com/profile/view?id=AAkAAAB_OigBbb9OwaNt
 **Office Hours:** 5:30pm - 6:30pm (class nights)<br>
 **Method of Communication:** Slack (preferred) or email (sherika.wynter@gmail.com)
 
-<!--
+### Welcome to Product Management 10-Week Course
+This course is designed to take the student through the full life cycle of product development and management. Product Management (PM) is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
+
+This Product Management course will provide the skills: 
+* To understand your users and analyze the market to build a product that is valuable, viable, and usable.
+* Create a roadmap and effectively manage communication with all stakeholders
+* Develop metrics to measure your success and make tough decisions
+
 
 ###General Information
-* [Getting Started Info](https://github.com/idrmiller/PDM7/wiki/01.-Getting-Started-Info)
-* [Class Schedule](https://github.com/idrmiller/PDM7/wiki/02.-PDM7-Class-Schedule)
+* [Getting Started Info](https://github.com/andyacs/PDM8/wiki/Getting-Started-with-PDM)
+* [Class Schedule](https://github.com/andyacs/PDM8/wiki/Class-Schedule)
+<!--
 * [Product Managers Toolkit](https://github.com/idrmiller/PDM7/wiki/03.-PM-Tool-Kit)
 * [Mid-Term Tracker](https://github.com/idrmiller/PDM7/blob/master/Extra/GA%20PDM%20Final%20Project%20Tracker-1.xlsx)
+ -->
 
 ###Class Content Pages
 
-* [Class 1: Into to PM](https://github.com/idrmiller/PDM7/wiki/Class-01:-Intro-to-Product-Management)
+* [Class 1: Into to PM](https://github.com/andyacs/PDM8/wiki/Class-1:-Intro-to-Product-Management)
+<!--
 * [Class 2: Product Development Cycle](https://github.com/idrmiller/PDM7/wiki/Class-02:-Product-Development-Cycle)
 * [Class 3: Testing & Validating Your Idea](https://github.com/idrmiller/PDM7/wiki/Class-03:-Testing-&-Validating-Your-Idea)
 * [Class 4: Customer Development](https://github.com/idrmiller/PDM7/wiki/Class-04:-Customer-Development)
@@ -39,13 +49,7 @@ _[Sherika Wynter] (https://www.linkedin.com/profile/view?id=AAkAAAB_OigBbb9OwaNt
 
 -->
 
-### Welcome to Product Management 10-Week Course
-This course is designed to take the student through the full life cycle of product development and management. Product Management (PM) is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
 
-This Product Management course will provide the skills: 
-* To understand your users and analyze the market to build a product that is valuable, viable, and usable.
-* Create a roadmap and effectively manage communication with all stakeholders
-* Develop metrics to measure your success and make tough decisions
 
 | |Quotes by Industry Influencers  |
 ---|---
