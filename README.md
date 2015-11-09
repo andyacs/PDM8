@@ -32,7 +32,8 @@ This Product Management course will provide the skills:
 
 ###Class Content Pages
 
-* [Class 1: Into to PM](https://github.com/andyacs/PDM8/wiki/Class-1:-Intro-to-Product-Management)
+* [Class 1: Intro to PM](https://github.com/andyacs/PDM8/wiki/Class-1:-Intro-to-Product-Management)
+* [Class 2: Product Development Cycle](https://github.com/andyacs/PDM8/wiki/Class-2:---Product-Development-Cycle)
 
 <!--
 * [Class 2: Product Development Cycle](https://github.com/idrmiller/PDM7/wiki/Class-02:-Product-Development-Cycle)
