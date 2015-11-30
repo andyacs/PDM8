@@ -1,6 +1,6 @@
 # PDM8 Course Repository
 
-Course materials for [General Assembly's Product Managment course](https://generalassemb.ly/education/product-management/washington-dc) in Washington, DC starting 08/17/2015 - 10/26/2015.
+Course materials for [General Assembly's Product Managment course](https://generalassemb.ly/education/product-management/washington-dc) in Washington, DC November 1st 2015 - January 20th 2016.
 
 **Instructor:** 
 _[Andy Acs] (https://www.linkedin.com/in/andyacs)_<br>
@@ -37,6 +37,7 @@ This Product Management course will provide the skills:
 * [Class 3: Customer Development](https://github.com/andyacs/PDM8/wiki/Class-3:-Customer-Development)
 * [Class 4: Testing and Validating Ideas](https://github.com/andyacs/PDM8/wiki/Class-4:-Testing-and-Validating-Your-Idea)
 * [Class 5: Business Model Design](https://github.com/andyacs/PDM8/wiki/Class-5:-Business-Model-Design)
+* [Class 6: Market Research](https://github.com/andyacs/PDM8/wiki/Class-6:-Market-Research)
 
 <!--
 * [Class 2: Product Development Cycle](https://github.com/idrmiller/PDM7/wiki/Class-02:-Product-Development-Cycle)
