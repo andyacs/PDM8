@@ -40,6 +40,7 @@ This Product Management course will provide the skills:
 * [Class 6: Market Research](https://github.com/andyacs/PDM8/wiki/Class-6:-Market-Research)
 * [Class 7: Personas and Empathy Maps](https://github.com/andyacs/PDM8/wiki/Class-7:-Personas-and-Empathy-Maps)
 * [Class 8: Features and User Stories](https://github.com/andyacs/PDM8/wiki/Class-8:-Features-and-User-Stories)
+* [Class 9: Metrics and KPIs](https://github.com/andyacs/PDM8/wiki/Class-9:-Metrics-and-KPIs)
 
 <!--
 * [Class 2: Product Development Cycle](https://github.com/idrmiller/PDM7/wiki/Class-02:-Product-Development-Cycle)
