@@ -42,6 +42,8 @@ This Product Management course will provide the skills:
 * [Class 8: Features and User Stories](https://github.com/andyacs/PDM8/wiki/Class-8:-Features-and-User-Stories)
 * [Class 9: Metrics and KPIs](https://github.com/andyacs/PDM8/wiki/Class-9:-Metrics-and-KPIs)
 * [Class 10: Wireframes and Storyboards](https://github.com/andyacs/PDM8/wiki/Class-10:-Wireframes-and-Storyboards)
+* [Class 11: Pricing and Financial Modeling](https://github.com/andyacs/PDM8/wiki/Class-11:-Pricing-and-Financial-Modeling)
+* [Class 12: Product Features and Roadmaps](https://github.com/andyacs/PDM8/wiki/Class-12:-Product-Features-and-Roadmaps)
 
 
 | |Quotes by Industry Influencers  |
