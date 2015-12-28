@@ -44,6 +44,7 @@ This Product Management course will provide the skills:
 * [Class 10: Wireframes and Storyboards](https://github.com/andyacs/PDM8/wiki/Class-10:-Wireframes-and-Storyboards)
 * [Class 11: Pricing and Financial Modeling](https://github.com/andyacs/PDM8/wiki/Class-11:-Pricing-and-Financial-Modeling)
 * [Class 12: Product Features and Roadmaps](https://github.com/andyacs/PDM8/wiki/Class-12:-Product-Features-and-Roadmaps)
+* [Class 13: Technology for Product Managers](https://github.com/andyacs/PDM8/wiki/Class-13--Technology-for-PMs)
 
 
 | |Quotes by Industry Influencers  |
