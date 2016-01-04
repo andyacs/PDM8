@@ -45,7 +45,7 @@ This Product Management course will provide the skills:
 * [Class 11: Pricing and Financial Modeling](https://github.com/andyacs/PDM8/wiki/Class-11:-Pricing-and-Financial-Modeling)
 * [Class 12: Product Features and Project Management](https://github.com/andyacs/PDM8/wiki/Class-12:-Product-Features-and-Roadmaps)
 * [Class 13: Technology for Product Managers](https://github.com/andyacs/PDM8/wiki/Class-13--Technology-for-PMs)
-* [Class 14: Product Roadmaps]()
+* [Class 14: Product Roadmaps](https://github.com/andyacs/PDM8/wiki/Class-14:-Product-Roadmaps)
 * [Class 15: Product Marketing and Go To Market Strategy](https://github.com/andyacs/PDM8/wiki/Class-15:-Product-Marketing-GTM-Strategy)
 
 
